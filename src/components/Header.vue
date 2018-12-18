@@ -1,12 +1,12 @@
 <template>
-    <div>
-        <h1>404:未找到匹配的资源</h1>
-    </div>
+  <div>
+     <h3>This is an Header page</h3>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'NotFound',
+  name: 'Header',
   data () {
     return {
     }
